@@ -51,5 +51,5 @@ publish {
     artifactId = 'mylibrary'        // 依赖名implemention 'x:y:z'中的项目名y
     publishVersion = '0.0.1'          // 依赖名implemention 'x:y:z'中的版本号z
     desc = 'XXX0XXXXX'       		// 对该开源组件的说明
-    website = 'https://github.com/Shanyaliux/BluetoothXSample'  // VCS地址
+    website = 'https://github.com/Shanyaliux/TestJcenter'  // VCS地址
 }
